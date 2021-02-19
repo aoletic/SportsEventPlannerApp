@@ -1,0 +1,2 @@
+- 08.05.2020. 8 bodova - AD će u konačnici trebati uskladiti s aplikacijom kada bude gotova. UCD: nije u redu koristiti slucajee koristenja za opisivanje logike i dizajna. To treba biti popis funkcionalnosti. ERA: nije dobro, molim dogovorite konzultacije da definiramo finalni model. AD: koncepti nisu ispravno korišteni, npr. koristite aktivnost umjesto akcije.
+- 14.3.2020. prijava projekta: U redu, molim dodajte funkcionalnost "natjecateljskog stabla" za pojedini događaj: npr. 1 krug, 2. krug, četvrt-finale, polu-finale, i finale

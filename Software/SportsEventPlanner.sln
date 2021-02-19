@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsEventPlanner", "SportsEventPlanner.csproj", "{EC38F878-2BED-433F-84EC-AD8E454F93C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sportovi", "..\Sportovi\Sportovi.csproj", "{AE894D96-3A0E-4A54-99C9-18CCCCF3FD08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC38F878-2BED-433F-84EC-AD8E454F93C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC38F878-2BED-433F-84EC-AD8E454F93C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC38F878-2BED-433F-84EC-AD8E454F93C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC38F878-2BED-433F-84EC-AD8E454F93C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE894D96-3A0E-4A54-99C9-18CCCCF3FD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE894D96-3A0E-4A54-99C9-18CCCCF3FD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE894D96-3A0E-4A54-99C9-18CCCCF3FD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE894D96-3A0E-4A54-99C9-18CCCCF3FD08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25866E70-BB30-463E-BFCF-79079D9A2E5C}
+	EndGlobalSection
+EndGlobal
